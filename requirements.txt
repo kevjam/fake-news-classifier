@@ -1,7 +1,0 @@
-tensorflow
-tensorboard==2.0.1
-keras==2.3.1
-pandas==0.24.2
-numpy==1.17.3
-scikit-learn==0.21.2
-pickleshare==0.7.5
